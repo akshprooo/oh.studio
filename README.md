@@ -16,7 +16,7 @@ This is a fully redesigned version of the [Oh.Studio](https://oh.studio/) websit
 1. Clone the Repository
 
    ```sh
-   git clone https://github.com/YOUR_GITHUB_USERNAME/oh-studio-redesign.git
+   git clone https://github.com/akshprooo/oh.studio
    cd oh-studio-redesign
    ```
 
