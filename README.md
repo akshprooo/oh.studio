@@ -17,7 +17,7 @@ This is a fully redesigned version of the [Oh.Studio](https://oh.studio/) websit
 
    ```sh
    git clone https://github.com/akshprooo/oh.studio
-   cd oh-studio-redesign
+   cd oh.studio
    ```
 
 2. open command prompt in the cloned repo's directory and run the command:
