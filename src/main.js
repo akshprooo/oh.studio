@@ -88,6 +88,16 @@ const page2tl = gsap.timeline({
     }
 })
 
+gsap.from('.page:nth-child(2) h1', {
+    opacity: 0,
+    scrollTrigger: {
+        trigger: '.page:nth-child(2)',
+        start: 'top 70%',
+        end: 'top 50%',
+        scrub: .4
+    }
+})
+
 page2tl.to('.img:nth-child(2)', {
     right: '3.5%',
     top: '18%',
@@ -97,7 +107,7 @@ page2tl.to('.img:nth-child(2)', {
 page2tl.to('.img:nth-child(3)', {
     left: '3.5%',
     bottom: '18%',
-    opacity: 1
+    opacity: 1,
 }, 'a')
 
 const page3tl = gsap.timeline({
@@ -169,6 +179,17 @@ gsap.from('footer .top h2', {
         trigger: 'footer .top h1',
         start: 'top 110%',
         end: 'top 60%',
+        scrub: true
+    }
+})
+
+gsap.to('.page:nth-child(4)', {
+    borderTopLeftRadius: 0,
+    borderTopRightRadius: 0,
+    scrollTrigger: {
+        trigger: '.page:nth-child(4)',
+        start: 'top top+=100%',
+        end: 'top top',
         scrub: true
     }
 })
