@@ -69,11 +69,11 @@ If you are interested in contributing to this project, feel free to fork the rep
 
 If you have any questions, suggestions, or would like to collaborate on similar projects, feel free to reach out.
 
-- **Github:**[Github.com/](github.com/akshprooo)
+- **Github:**[Github](https://github.com/akshprooo)
 - **Discord:** @akshprooo
 - **E-Mail:**[Send A Mail](mailto:akshprooo@gmail.com)
-- **Instagram:**[instagram.com/](instagram.com/akshtiwari__)
-- **Twitter(X):**[twitter.com/](twitter.com/akshprooo)
+- **Instagram:**[instagram](https://instagram.com/akshtiwari__)
+- **Twitter(X):**[twitter](https://twitter.com/akshprooo)
 
 Thank you for checking out this project! Your feedback and support are greatly appreciated.
 
